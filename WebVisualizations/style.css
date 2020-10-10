@@ -1,0 +1,52 @@
+body{
+    background-color:rgb(237, 241, 240);
+}
+.col-md-12{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom:30px;
+}
+
+h3{
+    color: rgb(73, 168, 151);
+    padding: 20px;
+}
+
+p{
+    font-size: large;
+    padding:15px;
+ }
+
+.content {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 40px;
+    overflow: hidden;
+}
+
+a.navbar-brand{
+    background-color: rgb(84, 173, 163);
+    font-size: 30px;
+    padding: 8px;
+}
+
+.table {
+    font-size: 10px;
+    text-align: center;
+    border-top-color: rgb(235, 230, 230);
+  }
+
+.footer {
+    text-align: center;
+    width: 100%
+}
+
+@media (max-width: 600px) {
+    .navbar.bg-light{
+        background-color: rgb(84, 173, 163);
+    }
+    .navbar{
+        padding: inherit
+    }
+}
