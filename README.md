@@ -18,4 +18,4 @@ A "Comparisons" page that:
 A "Data" page that:
 *Displays a responsive table containing the data used in the visualizations (The table must be a bootstrap table component).
 
-My website was deployed to GitHub pages, helina-s.github.io/web-design-challenge/webvisualizations/
+My website was deployed to GitHub pages.
